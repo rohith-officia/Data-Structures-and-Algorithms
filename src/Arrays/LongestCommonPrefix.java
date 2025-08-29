@@ -6,7 +6,6 @@ public class LongestCommonPrefix {
 
         // Start with the first string as prefix
         String a = strs[0];
-
         // Compare with every other string
         for (int i = 1; i < strs.length; i++) {
             // While the current string doesn't start with 'a'
