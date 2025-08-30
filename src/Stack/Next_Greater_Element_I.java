@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/next-greater-element-i?envType=problem-list-v2&envId=stack
+
 package Stack;
 
 import java.util.*;
