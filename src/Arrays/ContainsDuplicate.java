@@ -21,7 +21,7 @@ public class ContainsDuplicate {
     }
 
     public static void main(String [] args){
-        int [] arr = {7,1,5,3,6,4};
+        int [] arr = {1,2,3,1};
         System.out.print(contains_Duplicate(arr));
     }
 }
