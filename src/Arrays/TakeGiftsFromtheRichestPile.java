@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/take-gifts-from-the-richest-pile
+
 package Arrays;
 
 import java.util.*;
