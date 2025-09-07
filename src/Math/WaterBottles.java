@@ -17,6 +17,10 @@ public class WaterBottles {
         return sum;
     }
 
+//    ----------------------Method 2 -------------------------------
+
+//    return numBottles + (numBottles - 1) / (numExchange - 1);
+
     // Testing the solution
     public static void main(String[] args) {
         WaterBottles wb = new WaterBottles();
